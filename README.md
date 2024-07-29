@@ -1,9 +1,13 @@
 # my first program percentage-calculator-
-import java.util.Scanner;
 
+
+
+import java.util.Scanner;
 class percenatagecalculator{
+
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
+        
         System.out.println(" Each Marks for Each Subject ");
         System.out.println(" physics : ");
         double physicsMarks = scn.nextDouble();
