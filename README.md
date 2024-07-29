@@ -1,9 +1,8 @@
 # my first program percentage-calculator-
 
+    import java.util.Scanner;
 
-
-import java.util.Scanner;
-class percenatagecalculator{
+    class percenatagecalculator{
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
