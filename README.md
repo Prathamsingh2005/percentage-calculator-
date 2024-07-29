@@ -1,4 +1,4 @@
-# percentage-calculator-
+# my first program percentage-calculator-
 import java.util.Scanner;
 
 class percenatagecalculator{
